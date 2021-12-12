@@ -13,11 +13,11 @@ Next.js blogging template for Netlify has already implemented these standard fea
 
 Deploy on your environment by clicking here:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/wutali/nextjs-netlify-blog-template&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/schmuecker/netlify-cms-nextjs-blog-template&stack=cms)
 
 Or access the following demo site:
 
-[Next.js blog template for Netlify](https://nextjs-netlify-blog-template.netlify.app/)
+[Next.js blog template for Netlify](https://netlify-cms-nextjs-blog-template.netlify.app/)
 
 ## Features
 
